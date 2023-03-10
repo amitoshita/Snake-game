@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\amitl\source\repos\SNAKE\SNAKE\Source.c(67,9): warning C4101: 'j': unreferenced local variable
+C:\Users\amitl\source\repos\SNAKE\SNAKE\Source.c(67,6): warning C4101: 'i': unreferenced local variable
+C:\Users\amitl\source\repos\SNAKE\SNAKE\Source.c(237,6): warning C4101: 'i': unreferenced local variable
+C:\Users\amitl\source\repos\SNAKE\SNAKE\Source.c(273,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SNAKE.vcxproj -> C:\Users\amitl\source\repos\SNAKE\Debug\SNAKE.exe
